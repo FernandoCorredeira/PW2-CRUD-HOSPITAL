@@ -1,0 +1,23 @@
+{
+	"info": {
+		"_postman_id": "9cfde5ae-de31-43ae-9ad8-030fa751779a",
+		"name": "atividade-26_06",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26212203"
+	},
+	"item": [
+		{
+			"name": "Especialidades",
+			"item": [
+				{
+					"name": "Insert",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
